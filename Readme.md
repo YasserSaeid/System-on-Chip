@@ -4,4 +4,4 @@ This consists of two levels.
 2) second part is built using VHDL.
 
 **Notice:**
-*the reponding code is atthaced.
+*the corresponding code is atthaced.
